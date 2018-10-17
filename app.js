@@ -3,7 +3,6 @@
  * Author: Qiang Ge
  * Mail: 2962051004@qq.com
  * Deta: 2018-4-17 9:28
- * Website: https://api.yya.gs
 */
 
 var app = require('express')();
